@@ -1,6 +1,6 @@
 export const Paths = {
     menu: '/',
     login: '/login',
-    register: '/register'
+    register: '/register',
+    cart: '/cart'
 } as const;
-
